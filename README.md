@@ -1,6 +1,9 @@
 # D3 Tech Talk
 
-The following repository contains code for an internal D3 tech session presented by @waleedbinalim and @ahmed-rafiullah
+The following repository contains code for an internal D3 tech session presented by:
+
+@waleedbinalim
+@ahmed-rafiullah
 
 ## Getting Started
 
